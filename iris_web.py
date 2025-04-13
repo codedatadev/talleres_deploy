@@ -25,7 +25,7 @@ def classify(num):
 
 def main():
     #titulo
-    st.title('Modelamiento de Iris')
+    st.title('Modelamiento de Iris Grupo 1 Talleres')
     #titulo de sidebar
     st.sidebar.header('User Input Parameters')
 
